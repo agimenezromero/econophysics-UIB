@@ -2,6 +2,8 @@
 
 This repository contains a collection of **Jupyter notebooks** used in the hands-on practice sessions of the *Econophysics* elective course, part of the 4th-year curriculum in the B.Sc. in Physics at the **University of the Balearic Islands (UIB)**.
 
+The notebooks are also used in the hands-on practice sessions of the *Complex Systems Modelling in Economics* elective course, part of the curriculum in the M.Sc. in Physics of Complex Systems at the **University of the Balearic Islands (UIB)**, organized by the **Institute for Cross-disciplinary Physics and Complex Systems (IFISC)**.
+
 These interactive materials are designed to complement theoretical lectures, providing practical exposure to core methods and concepts in Econophysics.
 
 ## Contents
